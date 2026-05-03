@@ -5,3 +5,6 @@ sets
 dictionaries and identity operators
 compound data strucutres
 data strucutres and algorithms --- in future
+
+tuples
+1.differnec between tuplesand list (maintains order and  immutable )
