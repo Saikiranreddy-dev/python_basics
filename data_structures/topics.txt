@@ -1,0 +1,7 @@
+list and membership operators
+list methods
+tuples
+sets
+dictionaries and identity operators
+compound data strucutres
+data strucutres and algorithms --- in future
