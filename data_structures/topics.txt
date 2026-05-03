@@ -8,3 +8,7 @@ data strucutres and algorithms --- in future
 
 tuples
 1.differnec between tuplesand list (maintains order and  immutable )
+
+sets
+dictionary
+used when we need to associate the data with dictionaries 
