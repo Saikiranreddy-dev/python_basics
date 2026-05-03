@@ -1,2 +1,2 @@
 # python_basics
-learming python
+learning python
